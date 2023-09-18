@@ -1,0 +1,5 @@
+xPath на вкладку Musik на сайте https://www.amazon.de 
+Полный путь
+/html/body/div[1]/div[1]/header/div/div[4]/div[2]/div[2]/div/a[5]
+Относительный путь
+//*[@id="nav-xshop"]/a[5]
